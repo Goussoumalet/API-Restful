@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "com.gous.webapp.apiUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'com.gous.webapp.apiUrl'"
+  },
+  {
+    "name": "com.gous.webapp.apiUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'com.gous.webapp.apiUrl'"
+  }
+]}
